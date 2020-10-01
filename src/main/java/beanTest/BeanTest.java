@@ -1,6 +1,6 @@
 package beanTest;
 
-import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
@@ -13,8 +13,9 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class BeanTest {
     public static void main(String[] args) {
         //获取到配置bean的配置文件
-        ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+        AbstractApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
         Object beanTest = applicationContext.getBean("beanOne");
         System.out.println(applicationContext.getBean("beanOne"));
+        applicationContext.close();
     }
 }

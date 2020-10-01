@@ -9,7 +9,21 @@ package beanTest;
  */
 public class BeanOne {
 
+    private String name;
+
+    public BeanOne(){
+        System.out.println("这是BeanOne的构造函数");
+    }
+
     void speak() {
         System.out.println("这是beanOne");
+    }
+
+    public void init(){
+        System.out.println("init");
+    }
+
+    public void destroy(){
+        System.out.println("destroy");
     }
 }
