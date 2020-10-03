@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="babf0255-5e25-4901-98f8-ddd8bbae1c7a" name="Default Changelist" comment="" />
+    <list default="true" id="babf0255-5e25-4901-98f8-ddd8bbae1c7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beanTest/BeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beanTest/BeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/beanTest/BeanOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beanTest/BeanOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/beanTest/BeanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beanTest/BeanTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +21,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iHjjEKXlgazFxQLLYhqm0ceixn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -81,30 +93,69 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601571545000</updated>
-      <workItem from="1601571548081" duration="2435000" />
+      <workItem from="1601571548081" duration="3658000" />
+      <workItem from="1601619619833" duration="650000" />
     </task>
+    <task id="LOCAL-00001" summary="新增bean测试代码">
+      <created>1601578642331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601578642331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="新增bean测试代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增bean测试代码" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601574774899">
+    <state x="320" y="115" key="#Notifications" timestamp="1601578659225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601574774899" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601574774898">
+    <state x="320" y="115" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1601578659225" />
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1601734907809">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601574774898" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601574774897">
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1601734907809" />
+    <state x="144" y="78" key="DiffContextDialog" timestamp="1601734894777">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601574774897" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601574774899">
+    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1601734894777" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601619920548">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601574774899" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601619920548" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1601617000470" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601619920547">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601619920547" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1601617000469" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601619920547">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601619920547" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1601617000468" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601619920548">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601619920548" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1601617000469" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601578644641">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601578644641" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601734982990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1601734982990" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601572771893">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

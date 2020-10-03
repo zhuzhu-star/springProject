@@ -16,6 +16,5 @@ public class BeanTest {
         AbstractApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
         Object beanTest = applicationContext.getBean("beanOne");
         System.out.println(applicationContext.getBean("beanOne"));
-        applicationContext.close();
     }
 }
